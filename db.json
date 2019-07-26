@@ -1,0 +1,22 @@
+{
+	"courses": [{
+			"id": 0,
+			"name": "react",
+			"desc": "Course for students learning React"
+		},
+		{
+			"id": 1,
+			"name": "angular",
+			"desc": "Course for students learning angular"
+		}, {
+			"id": 2,
+			"name": "nodejs",
+			"desc": "Course for students learning node js"
+		},
+		{
+			"id": 3,
+			"name": "bootstrap",
+			"desc": "Course for students learning bootstrap"
+		}
+	]
+}
